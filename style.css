@@ -1,0 +1,134 @@
+#logo{
+    height:80px;
+    padding-left: 0px;
+    padding-top: 10px;
+}
+
+#home{
+padding-left: 80px;
+color: white;
+font-size:20px;
+font-family:Black Ops One;
+}
+
+
+#home:hover{
+    color: red;
+}
+
+#Contact:hover{
+    color: red;
+}
+#Service:hover{
+    color: red;
+}
+
+#about:hover{
+    color: red;
+}
+
+
+#about{
+    padding-left: 80px;
+    color: white;
+    font-size:20px;
+    font-family:Black Ops One;
+    }
+
+#Service{
+        padding-left: 80px;
+        color: white;
+        font-size:20px;
+        font-family:Black Ops One;
+
+
+        }    
+
+        #Contact {
+            padding-left: 80px;
+            font-family:Black Ops One;
+            color: white;
+            font-size:20px;
+            }    
+
+
+            #search{
+                padding-left: 180px;
+                font-family:Black Ops One;
+                }              
+
+
+               #searchbtn{
+                    margin-top: 1px;
+                  
+                    border: 2px solid cyan;
+                    background-color: cyan;
+                    font-size: 5rem;
+                    border-radius: 2px 5px 5px;
+                cursor: pointer;
+                
+               }
+
+               #searchbtn:hover{
+                background-color:rgba(13, 9, 248, 0.616);
+               }
+
+
+               #nav1{
+                background-color:rgba(100, 164, 175, 0.39);
+               }
+
+               body{background-color:  rgba(189, 243, 245, 0.527) ;}
+
+
+               #conatiner{
+                background:cyan;
+               }
+
+
+               #col1{
+                background-color: rgb(207, 235, 245);
+                height: 250px;
+                width: 600px;
+                margin-left: 20px;
+                padding: 5px;
+                gap: 10px;
+                margin-top: 120px;
+                border: 2px solid pink;
+                font-family:Black Ops One;
+                color:crimson;
+                border-radius: 5px 5px 8px;
+
+               }
+
+               #col2{
+              /*  background-color: rgb(105, 253, 47);*/
+                height: 400px;
+                width: 200px;
+                margin-left:0px;
+                margin-top: 20px;
+              /*  border: 2px solid red;
+                box-shadow: 5px 5px 15px black;*/
+                
+
+               }
+
+               #row{
+               
+                margin-left: 30px;
+               
+               }
+               #pic{
+                height: 490px;
+               }
+
+               .bts{
+                color: red;
+                margin-left: 230px;
+               
+               }
+
+               h1{
+                text-align: center;
+                color: blue;
+               }
